@@ -1,0 +1,16 @@
+E:\Estudos\Decola_Tech_Avanade\Projeto_Cadastro_de_Series\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+E:\Estudos\Decola_Tech_Avanade\Projeto_Cadastro_de_Series\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+E:\Estudos\Decola_Tech_Avanade\Projeto_Cadastro_de_Series\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+E:\Estudos\Decola_Tech_Avanade\Projeto_Cadastro_de_Series\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+E:\Estudos\Decola_Tech_Avanade\Projeto_Cadastro_de_Series\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+E:\Estudos\Decola_Tech_Avanade\Projeto_Cadastro_de_Series\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+E:\Estudos\Decola_Tech_Avanade\Projeto_Cadastro_de_Series\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+E:\Estudos\Decola_Tech_Avanade\Projeto_Cadastro_de_Series\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+E:\Estudos\Decola_Tech_Avanade\Projeto_Cadastro_de_Series\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\Decola_Tech_Avanade\Projeto_Cadastro_de_Series\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+E:\Estudos\Decola_Tech_Avanade\Projeto_Cadastro_de_Series\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+E:\Estudos\Decola_Tech_Avanade\Projeto_Cadastro_de_Series\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+E:\Estudos\Decola_Tech_Avanade\Projeto_Cadastro_de_Series\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+E:\Estudos\Decola_Tech_Avanade\Projeto_Cadastro_de_Series\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+E:\Estudos\Decola_Tech_Avanade\Projeto_Cadastro_de_Series\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+E:\Estudos\Decola_Tech_Avanade\Projeto_Cadastro_de_Series\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache

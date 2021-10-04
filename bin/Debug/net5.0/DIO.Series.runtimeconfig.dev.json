@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tasle\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tasle\\.nuget\\packages"
+    ]
+  }
+}
